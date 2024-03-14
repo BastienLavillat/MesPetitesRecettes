@@ -1,11 +1,11 @@
 ## Ingrédients
 
-1 Pâte feuilletée
-5 Pommes
-2 oeufs
-20cl de crême fraiche
-80g de sucre
-1 sachet de sucre vanillé
+* 1 Pâte feuilletée
+* 5 Pommes
+* 2 oeufs
+* 20cl de crême fraiche
+* 80g de sucre
+* 1 sachet de sucre vanillé
 
 ## Préparation
 
