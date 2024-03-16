@@ -1,6 +1,9 @@
 ## Ingrédients
 
-* 1 Pâte feuilletée
+(Quantité prévu pour une à tarte de 30cm de diamètre. Ajuster en fonction des 
+besoins.)
+
+* 1 Pâte feuilletée (Meilleure faite maison)
 * 5 Pommes
 * 2 oeufs
 * 20cl de crême fraiche
@@ -22,4 +25,4 @@ Dans un récipient, battre les oeufs, ajouter en fouettant le sucre et la crème
 Verser le mélange sur les pommes. Saupoudrer de sucre vanillé.
 
 ### Étape 5
-Cuire au four à 200°C pendant 30 min, en surveillant la coloration.
+Insérer dans le four à mi-hauteur puis cuire à 200°C, chaleur tournante, pendant 35 min, en surveillant la coloration.
